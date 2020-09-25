@@ -1,0 +1,119 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "5f625ff6bd97609c6925e2b4",
+      "text": "In ad dolor labore ea est laboris commodo elit consequat nulla exercitation cupidatat. Ex nostrud nulla qui nisi cupidatat fugiat duis. Officia occaecat fugiat voluptate sit. Sint est exercitation laboris proident aute consectetur eu aliqua minim sint sint ea aute velit. Ullamco dolore qui mollit non sint sunt consequat quis.",
+      "user": {
+        "fullname": "Dickerson Mcleod",
+        "username": "kirk",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      }
+    },
+    {
+      "id": 2,
+      "_id": "5f625ff6d7a13d513245b194",
+      "text": "Рассказывайте, где отдыхали в России этим летом, какие места открыли впервые или заново Огонь",
+      "user": {
+        "fullname": "Архитектурные излишества",
+        "username": "arkhlikbez",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
+      }
+    },
+    {
+      "_id": "8cgnlrennmd",
+      "text": "test",
+      "user": {
+        "fullname": "Test test",
+        "username": "test",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
+      },
+      "id": 3
+    },
+    {
+      "_id": "ztyso1crpv",
+      "text": "Test tweet 2",
+      "user": {
+        "fullname": "Test test",
+        "username": "test",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
+      },
+      "id": 4
+    },
+    {
+      "_id": "8m2odmuw8hr",
+      "text": "dddddddddddddddddd",
+      "user": {
+        "fullname": "Test test",
+        "username": "test",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1058468527772983301/xTP2mndN_bigger.jpg"
+      },
+      "id": 5
+    },
+    {
+      "_id": "kc0djyzfd8",
+      "text": "12345",
+      "user": {
+        "fullname": "Brian Vaughn 🖤",
+        "username": "brian_d_vaughn",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1290320630521487362/UKVSbU2V_bigger.jpg"
+      },
+      "id": 6
+    },
+    {
+      "_id": "frj8zlo12b8",
+      "text": "2444444",
+      "user": {
+        "fullname": "Brian Vaughn 🖤",
+        "username": "brian_d_vaughn",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1290320630521487362/UKVSbU2V_bigger.jpg"
+      },
+      "id": 7
+    }
+  ],
+  "tags": [
+    {
+      "_id": "5f625ff106bc4fd2a1e7bf710",
+      "name": "#HandOffRussianHistory",
+      "count": 12175
+    },
+    {
+      "_id": "5f625ff206bc4fda21e7bf710",
+      "name": "Навального",
+      "count": 442
+    },
+    {
+      "_id": "5f625ff406bc45f2da1e7bf710",
+      "name": "гитлер",
+      "count": 51321
+    },
+    {
+      "_id": "5f625f1f606b1c4fda1e7bf710",
+      "name": "Беларусь",
+      "count": 812812
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Dickerson Mcleod",
+      "username": "kirk",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    },
+    {
+      "fullname": "Hewitt Nelson",
+      "username": "matthews",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    },
+    {
+      "fullname": "Sloan Fowler",
+      "username": "carr",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "5f625ff606bc4fda1e7bf710",
+    "fullname": "Serhii Brekhov",
+    "username": "archakov06",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1119573674435194882/hr2lOD5z_bigger.png"
+  }
+}
